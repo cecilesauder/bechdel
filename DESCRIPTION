@@ -1,0 +1,16 @@
+Package: bechdel
+Title: Bechdel test data
+Version: 0.0.0
+Authors@R: c(
+    person("Cecile", "Sauder"  , , "cecile.sauder@rstudio.com", c("aut", "cre")),
+    person("Romain", "Francois", , "romain@r-enthusiasts.com" , "cph")
+    )
+Description: Bechdel test data.
+License: CC0
+LazyData: true
+Depends:
+    R (>= 3.1.1)
+Suggests:
+    dplyr
+URL: http://github.com/cecilesauder/bechdel
+BugReports: https://github.com/cecilesauder/bechdel/issues
