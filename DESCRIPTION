@@ -2,7 +2,7 @@ Package: bechdel
 Title: Bechdel test data
 Version: 0.0.0
 Authors@R: c(
-    person("Cecile", "Sauder"  , , "cecile.sauder@rstudio.com", c("aut", "cre")),
+    person("Cecile", "Sauder"  , , "cecile.sauder@gmail.com", c("aut", "cre")),
     person("Romain", "Francois", , "romain@r-enthusiasts.com" , "cph")
     )
 Description: Bechdel test data.
